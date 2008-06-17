@@ -1,0 +1,15 @@
+{
+  "name": "@drupal-ckeditor-libraries-group/emoji",
+  "description": "CKEditor 4 emoji plugin",
+  "keywords": ["ckeditor", "plugin", "emoji"],
+  "homepage": "https://ckeditor.com/cke4/addon/emoji",
+  "bugs": {
+    "url": "https://github.com/ckeditor/ckeditor4/issues"
+  },
+  "license" : "(GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1)",
+  "repository": {
+		"type": "git",
+    "url": "https://github.com/ckeditor/ckeditor4.git",
+    "directory": "plugins/emoji"
+	}
+}
